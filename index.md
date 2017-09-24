@@ -80,7 +80,7 @@ body {color:#17202A; font-family:Helvetica; font-size:14px; background: #E8F8F5 
 <p>Бантик, мышка, пищалка - подойдет все. Максимально обустройте место, где будет жить ваш питомец.
 <h3>Подготовьте к транспортировке</h3>
 <p>Подумайте о том, как нести вашего питомца домой. Перенос в рюкзаке для котика - это сресс. 
-Мы рекомендуем переноску, которую можно взять напрокат в нашем центре.</p>
+Мы рекомендуем переноску, которую можно взять напрокат в нашем центре.</p></body>
 
 
 <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter46051017 = new Ya.Metrika({ id:46051017, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/46051017" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
