@@ -1,9 +1,6 @@
 
-<html>
-
-<head>
 <title>Прокат котиков</title>
-<meta charset="utf-8">
+<head>
 <style>
 h1{color:#641E16; font-family:Helvetica; font-size:20px}
 h2{color:#6C3483; font-family:Helvetica; font-size:18px}
@@ -35,7 +32,7 @@ body {color:#17202A; font-family:Helvetica; font-size:14px; background: #E8F8F5 
 
 <h3>Очень пушистые котики</h3>
 <h4>Подойдут пользователям котиков, которые хотят потискать кота</h4>
-<img src="general.jpg" alt="Пушистый"> 
+<img src="https://github.com/Stratosferova/stratosferova.github.io/blob/master/funny.jpg" alt="Пушистый"> 
 <p>Пушистый котик - это самое лучшее, что может быть с каждым. Зимой он согреет, а летом... Летом не согреет. Но что поделать, ведь он такой пушистый. 
 <p>У пушистого кота масса плюсов: например, его можно вычесывать и вязать носки. Или можно подсунуть другу-аллергику. 
 
@@ -47,19 +44,19 @@ body {color:#17202A; font-family:Helvetica; font-size:14px; background: #E8F8F5 
 
 <h3>Независимые котики</h3>
 <h4>Подойдут пользователям котиков, которые не любят серьезные отношения</h4>
-<img src="grass.jpg" alt="Независимый"> 
+<img src="https://github.com/Stratosferova/stratosferova.github.io/blob/master/funny.jpg" alt="Независимый"> 
 <p>Такой котик приходит домой, когда захочет и уходит когда надо. Вам остается только ждать и надеяться. Зато каждая новая встреча - всегда радость.
 <p> Независимый котик - это как московское лето. Он вроде есть, а надел шорты - уже и нет!
 
 <h3>Спортивные котики</h3>
 <h4>Подойдут пользователям котиков, которые считают, что они офигеть какие спортсмены</h4>
-<img src="funny.jpg" alt="Спортивный"> 
+<img src="https://github.com/Stratosferova/stratosferova.github.io/blob/master/funny.jpg" alt="Спортивный"> 
 <p>Бегаете по утрам? Планируете бегать по утрам? Тогда ваш выбор - спортивный котик. Спортивный котик играет в прятки, бегает на перегонки и феерично взбирается по шторам.
 <p>Спортивный котик такой спортивный, что даже если вы не спортивный, то вам станет стыдно и вы купите хотя бы эспандер.
 
 <h3>Уютные котики</h3>
 <h4>Подойдут пользователям котиков, которые хотят купить камин</h4>
-<img src="pusha.jpg" alt="Уютный"> 
+<img src="https://github.com/Stratosferova/stratosferova.github.io/blob/master/funny.jpg" alt="Уютный"> 
 <p>Уютные котики умеют везде создать уют. Даже если у вас на полу валяются несколько носков, которым суждено никогда не найти пару, уютные котики сделают так, что ваши гости не заметят носки. 
 <p>Эти котики лучше всех мурлыкают и умильнее всех лакают молоко. Прелесть, а не котики!
 
@@ -69,12 +66,12 @@ body {color:#17202A; font-family:Helvetica; font-size:14px; background: #E8F8F5 
 <p> 1. Был ли у потенциального пользователя котик или брал ли он котика на прокат
 <p> 2. Насколько подробно заполнена анкета пользователя (нахождение дома, умение играть с котиками, зарплата и трафт на корм)
 <p> 3. Нет ли у пользователя маленьких детей и других котиков</p>
-<img src="bar.jpg" alt="Барсик">
+<img src="https://github.com/Stratosferova/stratosferova.github.io/blob/master/funny.jpg" alt="Барсик">
 <p>Средняя стоимость проката котика составляет <strong>100 рублей</strong> в час. 
 <p>За более подробной информацией обращайтесь по адресу: <address>Москва, ул. Муркина, д.3</address>
 
 <h2><a id="3"></a>Полезные советы</h2>
-<img src="77.jpg" alt="Бася" style="float:left; margin-right:15px">
+<img src="https://github.com/Stratosferova/stratosferova.github.io/blob/master/funny.jpg" alt="Бася" style="float:left; margin-right:15px">
 <h3>Найдите место</h3>
 <p>Пусть даже прокатный котик будет иметь свое место.Это может быть старое кресло или наоборот - модный пуфик.
 <h3>Купите еды</h3>
@@ -83,11 +80,7 @@ body {color:#17202A; font-family:Helvetica; font-size:14px; background: #E8F8F5 
 <p>Бантик, мышка, пищалка - подойдет все. Максимально обустройте место, где будет жить ваш питомец.
 <h3>Подготовьте к транспортировке</h3>
 <p>Подумайте о том, как нести вашего питомца домой. Перенос в рюкзаке для котика - это сресс. 
-Мы рекомендуем переноску, которую можно взять напрокат в нашем центре.
-
-</body>
-
-</html>
+Мы рекомендуем переноску, которую можно взять напрокат в нашем центре.</p>
 
 
 <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter46051017 = new Ya.Metrika({ id:46051017, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/46051017" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
