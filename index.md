@@ -71,7 +71,7 @@ body {color:#17202A; font-family:Helvetica; font-size:14px; background: #E8F8F5 
 <p>За более подробной информацией обращайтесь по адресу: <address>Москва, ул. Муркина, д.3</address>
 
 <h2><a id="3"></a>Полезные советы</h2>
-<img src="https://github.com/Stratosferova/stratosferova.github.io/blob/master/funny.jpg" alt="Бася" 
+<img src="https://github.com/Stratosferova/stratosferova.github.io/blob/master/funny.jpg" alt="Бася">
 <h3>Найдите место</h3>
 <p>Пусть даже прокатный котик будет иметь свое место.Это может быть старое кресло или наоборот - модный пуфик.
 <h3>Купите еды</h3>
