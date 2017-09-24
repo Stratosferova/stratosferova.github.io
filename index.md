@@ -10,7 +10,7 @@ body {color:#17202A; font-family:Helvetica; font-size:14px; background: #E8F8F5 
 </style>
 </head>
 
-<body>
+
 <h1>Как выбрать своего котика?</h1>
 <p>Котики бывают разные. Это знают все. Но подобрать котика не так-то просто. Представляем вам первый котоподбиратель! И да коснется вас пушистая лапка!</p>
 
@@ -38,7 +38,7 @@ body {color:#17202A; font-family:Helvetica; font-size:14px; background: #E8F8F5 
 
 <h3>Хулиганистые котики</h3>
 <h4>Подойдут пользователям котиков, которым все время скучно</h4>
-<img src="gamer.jpg" alt="Хулиган"> 
+<img src="https://github.com/Stratosferova/stratosferova.github.io/blob/master/funny.jpg" alt="Хулиган"> 
 <p>С хулиганистыми котиками не соскучишься. Проснулся утром - а на кухне такой беспорядок, что нет смысла убираться. Ну и правильно - зачем? Лучше котика погладить!
 <p>Коты-хулиганы любого избавят от депрессии и лишних вещей!
 
@@ -71,7 +71,7 @@ body {color:#17202A; font-family:Helvetica; font-size:14px; background: #E8F8F5 
 <p>За более подробной информацией обращайтесь по адресу: <address>Москва, ул. Муркина, д.3</address>
 
 <h2><a id="3"></a>Полезные советы</h2>
-<img src="https://github.com/Stratosferova/stratosferova.github.io/blob/master/funny.jpg" alt="Бася" style="float:left; margin-right:15px">
+<img src="https://github.com/Stratosferova/stratosferova.github.io/blob/master/funny.jpg" alt="Бася" 
 <h3>Найдите место</h3>
 <p>Пусть даже прокатный котик будет иметь свое место.Это может быть старое кресло или наоборот - модный пуфик.
 <h3>Купите еды</h3>
@@ -80,8 +80,7 @@ body {color:#17202A; font-family:Helvetica; font-size:14px; background: #E8F8F5 
 <p>Бантик, мышка, пищалка - подойдет все. Максимально обустройте место, где будет жить ваш питомец.
 <h3>Подготовьте к транспортировке</h3>
 <p>Подумайте о том, как нести вашего питомца домой. Перенос в рюкзаке для котика - это сресс. 
-Мы рекомендуем переноску, которую можно взять напрокат в нашем центре.</p></body>
-
+Мы рекомендуем переноску, которую можно взять напрокат в нашем центре.
 
 <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter46051017 = new Ya.Metrika({ id:46051017, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/46051017" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
 
