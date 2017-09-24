@@ -1,39 +1,94 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/Stratosferova/stratosferova.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+<title>Прокат котиков</title>
+<meta charset="utf-8">
+<style>
+h1{color:#641E16; font-family:Helvetica; font-size:20px}
+h2{color:#6C3483; font-family:Helvetica; font-size:18px}
+h3{color:#0B5345; font-family:Helvetica; font-size:16px}
+h4{color:#196F3D; font-family:Helvetica; font-size:14px}
+body {color:#17202A; font-family:Helvetica; font-size:14px; background: #E8F8F5 url(Background2.jpg)}
+</style>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+<h1>Как выбрать своего котика?</h1>
+<p>Котики бывают разные. Это знают все. Но подобрать котика не так-то просто. Представляем вам первый котоподбиратель! И да коснется вас пушистая лапка!</p>
 
-### Markdown
+<p>Краткое содержание:
+<p><b><a href="#1">1. Типы котиков</a></b></p>
+<p><b><a href="#2">2. Стоимость услуг</a></b></p>
+<p><b><a href="#3">3. Полезные советы</a></b></p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2><a id="1"></a>Типы котиков</h2>
+<p>Совместно с ООО "Любители котиков" мы создали первый прокат котиков. А разобраться, какой котик тебе подойдет поможет наша краткая инструкция, созданная при участии лучших знатоков котиков.
+<p>При подготовки данного списка типов мы ориентировались на основные потребности пользователей котиков. Нами было опрошено 100 тыс. счастливых владельцев котов и кошек. И еще столько же тех, кто только мечтает о котике.
 
-```markdown
-Syntax highlighted code block
+<h3>Лысые котики</h3>
+<h4>Подойдут пользователям котиков, которых достало убирать шерсть</h4>
+<p><img src="haier.jpg" alt="Лысый кот"> 
+<p> Да, бывает и такое: приходишь с работы, а кошачья шерсть повсюду. Или нет: собираешься на работу, а на новых черных брюках - шерсть от любимой Мурки.
+<p> Что делать? Завести лысого кота. Они веселые, жизнерадостные и общительные. Проблема одна - мерзнут. Поэтому лучше сделать для своего кота платье. Из старого носка, например.
+<br>
 
-# Header 1
-## Header 2
-### Header 3
-- Bulleted
-- List
+<h3>Очень пушистые котики</h3>
+<h4>Подойдут пользователям котиков, которые хотят потискать кота</h4>
+<img src="general.jpg" alt="Пушистый"> 
+<p>Пушистый котик - это самое лучшее, что может быть с каждым. Зимой он согреет, а летом... Летом не согреет. Но что поделать, ведь он такой пушистый. 
+<p>У пушистого кота масса плюсов: например, его можно вычесывать и вязать носки. Или можно подсунуть другу-аллергику. 
 
-1. Numbered
-2. List
+<h3>Хулиганистые котики</h3>
+<h4>Подойдут пользователям котиков, которым все время скучно</h4>
+<img src="gamer.jpg" alt="Хулиган"> 
+<p>С хулиганистыми котиками не соскучишься. Проснулся утром - а на кухне такой беспорядок, что нет смысла убираться. Ну и правильно - зачем? Лучше котика погладить!
+<p>Коты-хулиганы любого избавят от депрессии и лишних вещей!
 
-**Bold** and _Italic_ and `Code` text
+<h3>Независимые котики</h3>
+<h4>Подойдут пользователям котиков, которые не любят серьезные отношения</h4>
+<img src="grass.jpg" alt="Независимый"> 
+<p>Такой котик приходит домой, когда захочет и уходит когда надо. Вам остается только ждать и надеяться. Зато каждая новая встреча - всегда радость.
+<p> Независимый котик - это как московское лето. Он вроде есть, а надел шорты - уже и нет!
 
-[Link](url) and ![Image](src)
-```
+<h3>Спортивные котики</h3>
+<h4>Подойдут пользователям котиков, которые считают, что они офигеть какие спортсмены</h4>
+<img src="funny.jpg" alt="Спортивный"> 
+<p>Бегаете по утрам? Планируете бегать по утрам? Тогда ваш выбор - спортивный котик. Спортивный котик играет в прятки, бегает на перегонки и феерично взбирается по шторам.
+<p>Спортивный котик такой спортивный, что даже если вы не спортивный, то вам станет стыдно и вы купите хотя бы эспандер.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h3>Уютные котики</h3>
+<h4>Подойдут пользователям котиков, которые хотят купить камин</h4>
+<img src="pusha.jpg" alt="Уютный"> 
+<p>Уютные котики умеют везде создать уют. Даже если у вас на полу валяются несколько носков, которым суждено никогда не найти пару, уютные котики сделают так, что ваши гости не заметят носки. 
+<p>Эти котики лучше всех мурлыкают и умильнее всех лакают молоко. Прелесть, а не котики!
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stratosferova/stratosferova.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h2><a id="2"></a>Стоимость услуг</h2>
+<p>Стоимость услуг рассчитывается, исходя из нескольких факторов
+<p> 1. Был ли у потенциального пользователя котик или брал ли он котика на прокат
+<p> 2. Насколько подробно заполнена анкета пользователя (нахождение дома, умение играть с котиками, зарплата и трафт на корм)
+<p> 3. Нет ли у пользователя маленьких детей и других котиков</p>
+<img src="bar.jpg" alt="Барсик">
+<p>Средняя стоимость проката котика составляет <strong>100 рублей</strong> в час. 
+<p>За более подробной информацией обращайтесь по адресу: <address>Москва, ул. Муркина, д.3</address>
 
-### Support or Contact
+<h2><a id="3"></a>Полезные советы</h2>
+<img src="77.jpg" alt="Бася" style="float:left; margin-right:15px">
+<h3>Найдите место</h3>
+<p>Пусть даже прокатный котик будет иметь свое место.Это может быть старое кресло или наоборот - модный пуфик.
+<h3>Купите еды</h3>
+<p>Заранее узнайте, что любит ваш питомец и запаситесь вкунсым кормом.
+<h3>Купите игрушки</h3>
+<p>Бантик, мышка, пищалка - подойдет все. Максимально обустройте место, где будет жить ваш питомец.
+<h3>Подготовьте к транспортировке</h3>
+<p>Подумайте о том, как нести вашего питомца домой. Перенос в рюкзаке для котика - это сресс. 
+Мы рекомендуем переноску, которую можно взять напрокат в нашем центре.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+
+</html>
+
 
 <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter46051017 = new Ya.Metrika({ id:46051017, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/46051017" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
 
